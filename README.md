@@ -3,6 +3,9 @@
 
 This project provides a simple, customizable, and secure template for deploying your token smart contract, enabling you to engage in decentralized finance, launch a crowdfunding campaign, or simply explore the world of blockchain tokens. Get started today and empower your digital assets with the ERC20 standard
 
+![Screenshot 2023-09-26 at 23-48-22 PollexCoin (POLLEX) Token Tracker Etherscan](https://github.com/rezowansifat/PollexCoin-ERC20-Ethereum-Token/assets/119602384/0895d53a-9d88-46a0-a070-aed4a191d5bc)
+
+
 # Getting Started
 
 ## Requirements
